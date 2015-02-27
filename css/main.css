@@ -170,3 +170,9 @@ footer p{
     }
 }
 
+@media screen and (min-width:560px){
+    nav ul li{
+        width:22%;
+        display:inline-block;
+    }
+}
