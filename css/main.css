@@ -205,3 +205,12 @@ footer p{
     }
 }
 
+@media screen and (min-width:1300px){
+    main{
+        width:75%;
+    }
+    
+    footer{
+        width:75%;
+    }
+}
