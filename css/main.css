@@ -9,6 +9,11 @@ main{
     overflow:auto;
 }
 
+main,
+footer {
+    max-width: 1400px;
+}
+
 h1 {
     font-family: 'Droid Serif', serif;
     color:#c7a224;
